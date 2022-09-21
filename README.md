@@ -7,7 +7,7 @@ IT specialist in training
 I always loved computers and technical gadgets, so I decided to begin programming as a hobby, and now I'm in my training to be an IT specialist for application development.
 
 * 🌍  I'm based in Dresden
-* ✉️  You can contact me at [floork@mail.de](mailto:floork@mail.de)
+* ✉️  You can contact me at [floork@gmx.de](mailto:floork@gmx.de)
 * ⚡  If you have any other question: 42
 
 ### Skills
