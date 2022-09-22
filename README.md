@@ -2,7 +2,7 @@ Hi 👋 My name is Florian Mros (IT specialist in training)
 =============================
 
 ## 💫 About Me:
-Hi wave My name is Florian Mros
+My name is Florian Mros
 <br>IT specialist in training<br>
 I always loved computers and technical gadgets, so I decided to begin programming as a hobby, and now I'm in my training to be an IT specialist for application development.
 <br><br> 🌍 I'm based in Dresden
