@@ -1,10 +1,35 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>
+## Hi wave My name is Florian Mros (IT specialist in training) 👨‍💻
 
-<br>
 
-### <div>Hi wave My name is Florian Mros (IT specialist in training) 👨‍💻 </div>
+<a href="https://github.com/floork" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/floork" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/14971571/floork" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+
+
+
+
+### About Me
+My name is Florian Mros and I am an IT specialist in training at the TU-Dresden<br>
+I always loved computers and technical gadgets, so I decided to begin programming as a hobby, and now I'm in my training to be an IT specialist for application development.
+<br><br>
+
+
+<br/>
+
+
+## Rapidfire
+<table><tr><td valign="top" width="50%">
+
+- 🌍 I'm currently based in Dresden
+
+
+- ⚡  If you have any other question: 42
 
 
 - 🔭 I’m currently working on a few Linux projects
@@ -16,25 +41,47 @@
 - ⚡ Fun fact: I use spaces over tabs
 
 
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
+
+
+</td></tr></table>
+
 <br/>
 
-## 💫 About Me:
-My name is Florian Mros and I am an IT specialist in training at the TU-Dresden<br>
-I always loved computers and technical gadgets, so I decided to begin programming as a hobby, and now I'm in my training to be an IT specialist for application development.
-<br><br> 🌍 I'm currently based in Dresden
-<br>⚡  If you have any other question: 42<br>
 
-<br>
+## Languages and Tools
+<div align="center">
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
+</div>
+
+<br/>
+
 
 ## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=floork&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=floork&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floork&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
 
 <br/>
 
 
-
-## Spotify
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mrosflorian1&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
+<br/>
 
 <br/>
 
@@ -44,37 +91,9 @@ I always loved computers and technical gadgets, so I decided to begin programmin
 
 <br/>
 
-
-## My Skill Set
-
-<div align="center">
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-</div>
-
+## Spotify
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mrosflorian1&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
 
 <br/>
 
-
-## Connect with me
-<div align="center">
-<a href="https://github.com/floork" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/floork" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/14971571/floork" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-</div>
-
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=floork&&style=flat-square" align="center" />
-</div>
+![Profile views counter](https://komarev.com/ghpvc/?username=floork&&style=flat-square)
