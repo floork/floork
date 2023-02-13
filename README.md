@@ -26,20 +26,20 @@ I always loved computers and technical gadgets, so I decided to begin programmin
 ## Rapidfire
 <table><tr><td valign="top" width="50%">
 
-- 🌍 I'm currently based in Dresden
+ - 🌍 I'm currently based in Dresden
 
 
-- ⚡  If you have any other question: 42
+ - 🔭 I’m currently working on a few Linux projects
 
 
-- 🔭 I’m currently working on a few Linux projects
+ - ⚡ I’m currently learning C++
 
 
-- 🌱 I’m currently learning C++
+ - 🌱 Fun fact: I use spaces over tabs
 
-
-- ⚡ Fun fact: I use spaces over tabs
-
+  
+ - ⚡  If you have any other question: 42
+  
 
 </td><td valign="top" width="50%">
 
