@@ -7,32 +7,18 @@
 <a href="https://gitlab.com/floork" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/14971571/floork" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-
-
-
 
 ### About Me
 My name is Florian Mros and I am an IT specialist in training at the TU-Dresden<br>
 I always loved computers and technical gadgets, so I decided to begin programming as a hobby, and now I'm in my training to be an IT specialist for application development.
 <br><br>
 
-
 <br/>
-
 
 ## Rapidfire
 <table><tr><td valign="top" width="50%">
 
  - 🌍 I'm currently based in Dresden
-
-
- - 🔭 I’m currently working on a few Linux projects
-
-
- - ⚡ I’m currently learning C++
 
 
  - 🌱 Fun fact: I use spaces over tabs
@@ -89,11 +75,6 @@ I always loved computers and technical gadgets, so I decided to begin programmin
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/>
-
-## Spotify
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mrosflorian1&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
 
 <br/>
 
