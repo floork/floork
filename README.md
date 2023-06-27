@@ -1,4 +1,4 @@
-## Hi wave My name is Florian Mros (IT specialist in training) 👨‍💻
+## Hi 👋 My name is Florian Mros (IT specialist in training) 👨‍💻
 
 
 <a href="https://github.com/floork" target="_blank">
